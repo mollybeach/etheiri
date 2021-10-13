@@ -1,0 +1,23 @@
+{
+    "result": {
+        "blockNumber": "13331633",
+        "timeStamp": "1633067161",
+        "hash": "0x5ab1a210786c9622aa38e05b3b1d80640f32cd4d8a4b96282137a8e5bdae33a0",
+        "nonce": "710",
+        "blockHash": "0xa7b32a6503808dcc53b3eab26f6bce27020a5a75f48e1c61497bd5ac7c97d38e",
+        "from": "0x0000000000000000000000000000000000000000",
+        "contractAddress": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+        "to": "0x4efa6e1142a9e53227bd7ebb6e1137feb12a22f6",
+        "value": "49867626666666467196160",
+        "tokenName": "MAGIC",
+        "tokenSymbol": "MAGIC",
+        "tokenDecimal": "18",
+        "transactionIndex": "371",
+        "gas": "349846",
+        "gasPrice": "83292498178",
+        "gasUsed": "343614",
+        "cumulativeGasUsed": "28361721",
+        "input": "deprecated",
+        "confirmations": "64447"
+    }
+}
